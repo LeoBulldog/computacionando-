@@ -1,0 +1,11 @@
+Editores de código fonte
+- Escrever códigos
+- Marcação diferenciada dos códigos
+- Navegar por páginas e pastas
+- Foco na escrita dos códigos
+
+IDE
+- Incorpora os recursos dos editores de código fonte
+- Recursos mais completos 
+- Integração das ferramentas necessárias para desenvolvimento e produtividade
+
